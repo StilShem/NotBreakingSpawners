@@ -1,6 +1,0 @@
-name: NotBreakingSpawners
-version: '1.0'
-main: me.stilshem.notbreakingspawners.Main
-api-version: 1.16
-authors: [ StilShem ]
-description: A plugin that prevents spawners from wither and tnt from breaking
